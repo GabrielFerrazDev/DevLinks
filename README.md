@@ -5,6 +5,8 @@ O projeto DevLinks consiste em um menu animado, com modo escuro ou claro podendo
 ---
 ## Tecnologias
 O presente projeto foi criado utilizando as tecnologias: 
---CSS 
---HTML 
---Javascript
+<ul>
+<li>CSS </li>
+<li>HTML </li>
+<li>Javascript</li>
+</ul>
