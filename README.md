@@ -1,3 +1,10 @@
 # DevLinks
 
-Projeto criado no curso Discover da Rocketseat.
+O projeto DevLinks consiste em um menu animado, com modo escuro ou claro podendo ser alternados por meio de um botão "toggle".
+
+---
+## Tecnologias
+O presente projeto foi criado utilizando as tecnologias: 
+--CSS 
+--HTML 
+--Javascript
