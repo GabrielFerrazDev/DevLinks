@@ -4,7 +4,7 @@ function toggleMode() {
     html.classList.toggle("light")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/perfil2.jpg");
+    img.setAttribute("src", "./assets/perfil2nobg.png");
     img.setAttribute("alt", "Imagem de perfil clara")
   } else {
     img.setAttribute("src", "./assets/perfil1.jpg");
