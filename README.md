@@ -17,4 +17,4 @@ O presente projeto foi criado utilizando as tecnologias:
 
 ---
 
-Acesso o projeto através desse [Link](https://dev-links-gabrielferrazdev.vercel.app).
+Acesso o projeto através desse [Link.](https://dev-links-gabrielferrazdev.vercel.app)
