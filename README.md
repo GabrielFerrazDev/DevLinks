@@ -4,7 +4,7 @@
   <img alt="" src="./assets/readmebg.PNG" width="50%">
 </p>
 
-O projeto DevLinks consiste em um menu animado, com modo escuro ou claro podendo ser alternados por meio de um botão "toggle".
+O projeto DevLinks consiste em um menu animado, com modos escuro ou claro podendo ser alternados por meio de um botão "toggle".
 
 ---
 ## Tecnologias
